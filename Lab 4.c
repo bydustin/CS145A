@@ -2,7 +2,7 @@
  * 145_Project4.c
  *
  * Created: 5/9/2017 5:17:05 PM
- * Author : Billy Guan
+ * Author : Dustin Ngo
  */
  
 #define F_CPU 16000000UL
